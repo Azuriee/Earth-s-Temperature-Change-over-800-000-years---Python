@@ -56,10 +56,14 @@ It includes:
 - Strong correlation between temperature and CO₂/CH₄/N₂O  
 - Linear regression shows high explanatory power → warming is not random
 
+![Temperature last 150 years](images/temperature_150y.png)
+
 ### **Long-term (800,000 years)**
 - Natural climate cycles exist (glacial / interglacial)  
 - But the **current warming is much faster and stronger** than any natural cycle  
 - Greenhouse gases track temperature closely over geological scales
+
+![Temperature last 150 years](images/temperature_800k_y.png)
 
 > Renewable and nuclear energy expanded, but fossil fuel use continued to grow —  
 > therefore emissions **added up**, instead of being replaced.
