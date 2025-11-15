@@ -1,4 +1,12 @@
 # 🌍 Earth Temperature Change Analysis (800,000 years)
+ <p align="center">
+  <img src="https://img.shields.io/badge/language-Python-blue" />
+  <img src="https://img.shields.io/badge/library-pandas-green" />
+  <img src="https://img.shields.io/badge/library-plotly-orange" />
+  <img src="https://img.shields.io/badge/library-scikit--learn-yellow" />
+  <img src="https://img.shields.io/badge/category-Data%20Analysis-purple" />
+  <img src="https://img.shields.io/badge/topic-Climate%20Change-red" />
+</p>
 
 This project analyzes the evolution of global temperatures and greenhouse gases over different time scales, from the last 800,000 years to the last 150 years.  
 The goal is to understand long-term climate cycles and quantify the recent acceleration of global warming linked to human activity.
